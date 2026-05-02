@@ -1,0 +1,89 @@
+title: RPC Inc Vocabulary
+description: >-
+  Domain vocabulary for RPC, Inc., an oilfield services company. Covers
+  well services terminology, hydraulic fracturing, wireline, coiled tubing,
+  cementing, and related oil and gas services concepts.
+version: '1.0'
+created: '2026-05-02'
+modified: '2026-05-02'
+
+categories:
+  - name: Well Services
+    description: Core oilfield well service operations
+    terms:
+      - name: pressure-pumping
+        definition: Hydraulic fracturing and related pumping services that stimulate oil and gas reservoirs
+      - name: hydraulic-fracturing
+        definition: High-pressure fluid injection to fracture rock formations and release hydrocarbons
+      - name: wireline
+        definition: Electrical cable-based downhole logging, perforating, and intervention services
+      - name: coiled-tubing
+        definition: Continuous flexible pipe deployed from a spool for well intervention and stimulation
+      - name: cementing
+        definition: Pumping cement slurry into well annuli to seal casing and isolate zones
+      - name: snubbing
+        definition: Live well intervention using a snubbing unit to run/pull pipe under pressure
+      - name: nitrogen-services
+        definition: Pumping nitrogen gas for well stimulation, lifting, and purging operations
+      - name: well-control
+        definition: Procedures and equipment to prevent uncontrolled release of formation fluids (blowouts)
+      - name: tubular-services
+        definition: Pipe handling, inspection, threading, and management for casing and tubing
+
+  - name: Downhole Tools
+    description: Subsurface equipment and measurement tools
+    terms:
+      - name: downhole-tools
+        definition: Equipment deployed into the wellbore for measurement, completion, or intervention
+      - name: perforating
+        definition: Creating holes through casing and cement into the reservoir for production
+      - name: logging
+        definition: Measuring formation properties downhole using sensors on wireline or pipe
+      - name: packers
+        definition: Inflatable or mechanical devices that seal annular space in the wellbore
+      - name: setting-tool
+        definition: Device used to actuate a packer or plug downhole
+
+  - name: Completion Operations
+    description: Well completion and stimulation terminology
+    terms:
+      - name: completion
+        definition: Final phase of well construction preparing it for production
+      - name: perforation
+        definition: Openings made through casing into the formation to allow hydrocarbon flow
+      - name: stimulation
+        definition: Techniques to improve well productivity including fracturing and acidizing
+      - name: workover
+        definition: Remedial operations on an existing producing well to restore or improve production
+      - name: plug-and-perf
+        definition: Completion technique using bridge plugs and perforating guns for multi-stage fracturing
+
+  - name: Equipment
+    description: Oilfield equipment and rental tools
+    terms:
+      - name: blowout-preventer
+        definition: Safety valve installed at the wellhead to prevent uncontrolled fluid flow
+      - name: wellhead
+        definition: Assembly of valves and fittings at the surface controlling production flow
+      - name: rental-tools
+        definition: Specialized equipment leased to oil companies for drilling and completion operations
+      - name: frac-stack
+        definition: High-pressure wellhead equipment used during hydraulic fracturing operations
+      - name: manifold
+        definition: Piping assembly distributing fluid flow to or from multiple frac pumps
+
+  - name: Operational Context
+    description: Business and operational dimensions of oilfield services
+    terms:
+      - name: well-count
+        definition: Number of active wells receiving oilfield services
+      - name: completion-stage
+        definition: Individual fracturing interval in a multi-stage horizontal well
+      - name: proppant
+        definition: Sand or ceramic material pumped into fractures to hold them open
+      - name: slickwater
+        definition: Low-viscosity fracturing fluid using water with friction reducers
+      - name: horsepower
+        definition: Pumping power capacity measured in hydraulic horsepower (HHP)
+      - name: stage-count
+        definition: Number of individual fracturing stages completed in a horizontal well

@@ -1,0 +1,70 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "rpc": "https://www.rpc.net/vocab#",
+
+    "OilfieldServicesCompany": {
+      "@id": "schema:Corporation",
+      "@type": "@id"
+    },
+    "WellService": {
+      "@id": "rpc:WellService",
+      "@type": "@id"
+    },
+    "PressurePumping": {
+      "@id": "rpc:PressurePumping",
+      "@type": "@id"
+    },
+    "WirelineService": {
+      "@id": "rpc:WirelineService",
+      "@type": "@id"
+    },
+    "CoiledTubingService": {
+      "@id": "rpc:CoiledTubingService",
+      "@type": "@id"
+    },
+    "CementingService": {
+      "@id": "rpc:CementingService",
+      "@type": "@id"
+    },
+
+    "wellCount": {
+      "@id": "rpc:wellCount",
+      "@type": "xsd:integer"
+    },
+    "serviceName": {
+      "@id": "schema:name",
+      "@type": "xsd:string"
+    },
+    "subsidiary": {
+      "@id": "schema:subOrganization",
+      "@type": "@id"
+    },
+    "serviceLocation": {
+      "@id": "schema:serviceArea",
+      "@type": "@id"
+    },
+    "horsepowerCapacity": {
+      "@id": "rpc:horsepowerCapacity",
+      "@type": "xsd:integer"
+    },
+    "completionStages": {
+      "@id": "rpc:completionStages",
+      "@type": "xsd:integer"
+    },
+    "wellType": {
+      "@id": "rpc:wellType",
+      "@type": "xsd:string"
+    },
+    "formationType": {
+      "@id": "rpc:formationType",
+      "@type": "xsd:string"
+    },
+    "proppantType": {
+      "@id": "rpc:proppantType",
+      "@type": "xsd:string"
+    }
+  }
+}

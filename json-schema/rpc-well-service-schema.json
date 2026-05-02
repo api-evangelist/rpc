@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/rpc/main/json-schema/rpc-well-service-schema.json",
+  "title": "RPC Well Service",
+  "description": "Schema representing a well service engagement for RPC, Inc. oilfield services operations",
+  "type": "object",
+  "properties": {
+    "serviceId": {
+      "type": "string",
+      "description": "Unique identifier for the well service job"
+    },
+    "serviceType": {
+      "type": "string",
+      "description": "Type of oilfield service provided",
+      "enum": [
+        "pressure-pumping",
+        "wireline",
+        "downhole-tools",
+        "coiled-tubing",
+        "cementing",
+        "snubbing",
+        "nitrogen",
+        "well-control",
+        "rental-tools",
+        "tubular-services"
+      ]
+    },
+    "subsidiary": {
+      "type": "string",
+      "description": "RPC operating subsidiary providing the service",
+      "enum": [
+        "Cudd Energy Services",
+        "Patterson Services",
+        "Patterson Tubular Services",
+        "Spinnaker Oilwell Services",
+        "Thru Tubing Solutions",
+        "Well Control School",
+        "Pintail Completions"
+      ]
+    },
+    "wellLocation": {
+      "type": "object",
+      "description": "Geographic location of the well",
+      "properties": {
+        "state": { "type": "string" },
+        "basin": { "type": "string" },
+        "county": { "type": "string" }
+      }
+    },
+    "wellType": {
+      "type": "string",
+      "description": "Type of well being serviced",
+      "enum": ["horizontal", "vertical", "directional"]
+    },
+    "completionStages": {
+      "type": "integer",
+      "description": "Number of fracturing stages in a multi-stage completion"
+    },
+    "horsepowerDeployed": {
+      "type": "integer",
+      "description": "Total hydraulic horsepower deployed for pressure pumping"
+    },
+    "proppantType": {
+      "type": "string",
+      "description": "Type of proppant used in fracturing",
+      "enum": ["sand", "ceramic", "resin-coated-sand"]
+    },
+    "jobStatus": {
+      "type": "string",
+      "description": "Current status of the service job",
+      "enum": ["scheduled", "active", "completed", "cancelled"]
+    },
+    "startDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Service job start date"
+    },
+    "endDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Service job completion date"
+    }
+  },
+  "required": ["serviceType", "subsidiary", "jobStatus"]
+}
