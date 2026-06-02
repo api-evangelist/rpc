@@ -1,0 +1,8 @@
+---
+title: Wesley N. Slagle Elected to the RPC, Inc. Board of Directors
+url: https://www.rpc.net/wesley-n-slagle-elected-to-the-rpc-inc-board-of-directors/
+date: '2026-04-29'
+author: B2i
+feed_url: http://www.rpc.net/feed
+---
+ATLANTA, April 29, 2026 /PRNewswire/ — RPC, Inc. (NYSE: RES) announced today the election of Wesley N. Slagle to the Board of Directors of the Company. Mr. Slagle is the President of RFA Management Company, LLC and holds a B.S. in systems engineering from the United States Naval Academy and an MBA from Emory University. Previously, he held multiple positions at Goldman Sachs from 2014 to 2022, including Managing Director and Mid-Atlantic Region Head of the firm’s Private Wealth Management division. Prior to his time at Goldman Sachs, Mr. Slagle worked in various roles at AllianceBernstein, GE Energy and the US Navy, where he served as an officer onboard a nuclear-powered fast attack submarine. Richard A. Hubbell, Executive Chairman of the Board of RPC, Inc. stated, “Wes Slagle’s financial and operational knowledge brings capital allocation, strategic planning, and meaningful investment experience to the Board. We look forward to his contributions to our board in the years ahead.” About RPC, Inc.RPC provides a broad range of specialized oilfield services and equipment primarily to independent and major oilfield companies engaged in the exploration, production and development of oil and gas properties throughout the United States, including the Gulf of America, mid-continent, southwest, […] The post Wesley N. Slagle Elected to the RPC, Inc. Board of Directors appeared first on RPC .

@@ -1,0 +1,8 @@
+---
+title: RPC, Inc. Reports First Quarter 2026 Financial Results
+url: https://www.rpc.net/rpc-inc-reports-first-quarter-2026-financial-results/
+date: '2026-05-07'
+author: B2i
+feed_url: http://www.rpc.net/feed
+---
+ATLANTA, May 7, 2026 /PRNewswire/ — RPC, Inc. (NYSE: RES) (“RPC” or the “Company”), a leading diversified oilfield services company, announced its unaudited results for the first quarter ended March 31, 2026. Non-GAAP and adjusted measures may include, adjusted operating income, adjusted net income, adjusted net income margin, adjusted earnings per share (diluted), EBITDA and adjusted EBITDA, adjusted EBITDA margin, and free cash flow which are reconciled to the most directly comparable GAAP measures in the appendices of this earnings release. Sequential comparisons are to 4Q:25. The Company believes quarterly sequential comparisons are most useful in assessing industry trends and RPC’s recent financial results. Both sequential and year-over-year comparisons are available in the tables at the end of this earnings release. First Quarter 2026 Highlights Revenues increased 7% sequentially to $454.8 million Net income was $0.9 million, compared to net loss of $3.1 million in the prior quarter, and diluted Earnings Per Share (EPS) was $0.00; Net income margin increased 90 basis points sequentially to 0.2% Adjusted net income was $7.6 million, compared to $9.4 million in the prior quarter, and adjusted diluted EPS was $0.03; Adjusted net income margin was 1.7%. See Appendices B and C for additional details […] The post RPC, Inc. Reports First Quarter 2026 Financial Results appeared first on RPC .

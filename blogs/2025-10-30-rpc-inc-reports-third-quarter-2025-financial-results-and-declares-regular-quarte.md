@@ -1,0 +1,9 @@
+---
+title: RPC, Inc. Reports Third Quarter 2025 Financial Results And Declares Regular
+  Quarterly Cash Dividend
+url: https://www.rpc.net/rpc-inc-reports-third-quarter-2025-financial-results-and-declares-regular-quarterly-cash-dividend/
+date: '2025-10-30'
+author: B2i
+feed_url: http://www.rpc.net/feed
+---
+ATLANTA, Oct. 30, 2025 /PRNewswire/ — RPC, Inc. (NYSE: RES) (“RPC” or the “Company”), a leading diversified oilfield services company, announced its unaudited results for the third quarter ended September 30, 2025. Non-GAAP and adjusted measures, including adjusted revenues, adjusted operating income, adjusted net income, adjusted earnings per share (diluted), EBITDA and adjusted EBITDA, adjusted EBITDA margin, and free cash flow are reconciled to the most directly comparable GAAP measures in the appendices of this earnings release. Sequential comparisons are to 2Q:25. The Company believes quarterly sequential comparisons are most useful in assessing industry trends and RPC’s recent financial results. Both sequential and year-over-year comparisons are available in the tables at the end of this earnings release. Third Quarter 2025 Highlights Revenues increased 6% sequentially to $447.1 million Net income was $13.0 million, up 28% sequentially, and diluted Earnings Per Share (EPS) was $0.06; Net income margin increased 50 basis points sequentially to 2.9% Adjusted net income, was $18.4 million, up 5% sequentially, and adjusted diluted Earnings per Share (EPS) was $0.09; Adjusted net income margin remained relatively unchanged at 4.1% Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (EBITDA) was $72.3 million, up 10% sequentially; Adjusted EBITDA margin increased […] The post RPC, Inc. Reports Third Quarter 2025 Financial Results And Declares Regular Quarterly Cash Dividend appeared first on RPC .
