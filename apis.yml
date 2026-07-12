@@ -23,6 +23,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/rpc-domain-security.yml
   - type: Website
     url: https://www.rpc.net
   - type: Documentation
@@ -33,6 +35,8 @@ common:
     url: https://raw.githubusercontent.com/api-evangelist/rpc/refs/heads/main/vocabulary/rpc-vocabulary.yml
   - type: JSONLDContext
     url: https://raw.githubusercontent.com/api-evangelist/rpc/refs/heads/main/json-ld/rpc-context.jsonld
+  - type: Blog
+    url: https://www.rpc.net/feed/
 
 maintainers:
   - FN: Kin Lane
