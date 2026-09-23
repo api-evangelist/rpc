@@ -1,7 +1,9 @@
 ---
 title: 2024-April-Report-and-Recommendations-of-the-Task- ...
 url: https://nysba.org/wp-content/uploads/2022/03/2024-April-Report-and-Recommendations-of-the-Task-Force-on-Artificial-Intelligence.pdf?srsltid=AfmBOoq_4FkgcXCrzUgvch379a_WyTvhOtROIDI9lFhLCSDedX0DkDJv
-date: '2026-05-25'
+published: '2022-03-20'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"RPC" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: 'AI Technologies in Legal Practice: Revolutionizing Law Firms'
 url: https://rpcgrowthstrategies.com/blogs/post/10-ai-assisted-legal-tech-vendors-delivering-reliable-productivity-to-law-firms/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"RPC" press release artificial intelligence'
 position: 5
 source: serpapi-google

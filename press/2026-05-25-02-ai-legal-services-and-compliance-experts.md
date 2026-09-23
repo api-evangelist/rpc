@@ -1,7 +1,9 @@
 ---
 title: AI legal services & compliance experts
 url: https://www.rpclegal.com/expertise/solutions/artificial-intelligence/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"RPC" press release artificial intelligence'
 position: 2
 source: serpapi-google

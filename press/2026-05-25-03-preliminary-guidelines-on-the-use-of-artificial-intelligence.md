@@ -1,7 +1,9 @@
 ---
 title: Preliminary Guidelines on the Use of Artificial Intelligence ...
 url: https://www.njcourts.gov/sites/default/files/notices/2024/01/n240125a.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"RPC" press release artificial intelligence'
 position: 3
 source: serpapi-google

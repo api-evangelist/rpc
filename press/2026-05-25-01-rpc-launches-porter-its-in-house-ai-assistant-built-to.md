@@ -1,7 +1,9 @@
 ---
 title: RPC launches Porter, its in-house AI assistant built to ...
 url: https://www.rpclegal.com/press-and-media/rpc-launches-porter---its-in-house-ai-assistant/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"RPC" press release artificial intelligence'
 position: 1
 source: serpapi-google
