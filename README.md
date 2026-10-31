@@ -66,55 +66,103 @@
 
 RPC, Inc. is an oilfield services company providing specialized well services to independent and major oil and gas companies engaged in the exploration, production, and development of oil and gas properties. Operating through subsidiaries including Cudd Energy Services, Patterson Services, Spinnaker Oilwell Services, and Thru Tubing Solutions, RPC offers pressure pumping, wireline, downhole tools, coiled tubing, cementing, snubbing, nitrogen services, well control, rental tools, and tubular services. RPC does not currently offer a public developer API.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/rpc/refs/heads/main/apis.yml)
+**Areas:** Oilfield Services · Energy · Oil and Gas · Well Services · Pressure Pumping · Fortune 1000
 
-## Scope
+## RPC on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for RPC is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rpc/](https://apis.io/providers/rpc/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Oilfield Services, Energy, Oil And Gas, Well Services, Pressure Pumping
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### JSON Schema (1)
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-05-02
+The data models the API reads and writes.
 
-## APIs
+- [RPC Well Service](https://apis.io/schemas/rpc/rpc-well-service/)
 
-No public developer APIs are currently documented for RPC, Inc.
+#### JSON-LD (1)
 
-## Artifacts
+Linked-data contexts for the provider's vocabulary.
 
-### JSON Schema
+- [Rpc Context](https://apis.io/jsonld/rpc/rpc-context/)
 
-| File | Description |
+#### Vocabulary (1)
+
+The provider's domain terms, defined.
+
+- [RPC Inc Vocabulary](https://apis.io/vocabularies/rpc/rpc-vocabulary/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [RPC — jsonschema rules](https://apis.io/rules/rpc/rpc-jsonschema-spectral-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rpc Domain Security](https://apis.io/security/rpc/rpc-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.rpc.net)
+- [Documentation](https://www.rpc.net/services)
+- [Blog](https://www.rpc.net/feed/)
+
+## API Evangelist rating
+
+**Kin Score 10.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
 |---|---|
-| [rpc-well-service-schema.json](json-schema/rpc-well-service-schema.json) | Well service engagement schema |
+| Discoverability | 48.2 |
+| Contract quality | 10.7 |
+| Contract governance | 23.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
 
-### JSON-LD
+**Agent readiness 0.0** — human-only
 
-| File | Description |
+| Agent-readiness dimension | Result |
 |---|---|
-| [rpc-context.jsonld](json-ld/rpc-context.jsonld) | JSON-LD context mapping RPC oilfield services vocabulary |
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-### Vocabulary
+**Regulatory alignment 9.0** — Energy & Utilities
 
-| File | Description |
-|---|---|
-| [rpc-vocabulary.yml](vocabulary/rpc-vocabulary.yml) | RPC oilfield services domain terminology |
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rpc/](https://apis.io/providers/rpc/).
 
-## Resources
+## How this profile is made
 
-- **Website:** https://www.rpc.net
-- **Services:** https://www.rpc.net/services
-- **Investor Relations:** https://investors.rpc.net
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Maintainers
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for RPC: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-**FN:** Kin Lane
+## Open an issue
 
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rpc/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
